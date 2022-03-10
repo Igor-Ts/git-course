@@ -7,3 +7,5 @@ console.log('Hello');
 const pad = 'Spartak'
 
 console.log(pad);
+
+console.log('Yuy');
